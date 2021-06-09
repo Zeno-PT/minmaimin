@@ -1,6 +1,5 @@
 numpy
-sklearn
 flask
 pythainlp
 gunicorn
-tensorflow
+tensorflow.keras.models
