@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+uvicorn = "0.13.3"
+fastapi = "0.63.0"
+python-environ = "0.4.54"
+environs = "9.3.1"
+tensorflow = "2.4.1"
+pythainlp = "2.2.6"
+gensim = "*"
+
+[dev-packages]
+
+[requires]
+python_version = ">=3.8"
